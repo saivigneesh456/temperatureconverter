@@ -1,11 +1,14 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
+    background-image: url("https://us.123rf.com/450wm/photochicken/photochicken2008/photochicken200800065/153425631-pritty-young-asian-photographer-girl-teen-travel-with-camera-trip-take-a-photo-tourist-lifestyle.jpg?ver=6");
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
 }
 
 .container {
-    background-color: #fff;
+    background-color: transparent;
     padding: 20px;
     border-radius: 5px;
     width: 300px;
